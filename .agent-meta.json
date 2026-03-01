@@ -1,0 +1,17 @@
+{
+  "project_type": "portfolio",
+  "style": "modern-moroccan",
+  "pages": ["index.html"],
+  "color_palette": ["#0a0a0a", "#141414", "#c9a227", "#b87333", "#c45c3e", "#f5f0e6"],
+  "fonts": ["Playfair Display", "Montserrat"],
+  "features": [
+    "animated vinyl disc",
+    "moroccan geometric patterns",
+    "smooth scroll animations",
+    "mobile responsive",
+    "contact form",
+    "events section",
+    "mixes gallery"
+  ],
+  "last_updated": "2025-01-14"
+}
